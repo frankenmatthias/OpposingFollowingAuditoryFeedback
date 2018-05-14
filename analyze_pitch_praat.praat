@@ -1,4 +1,4 @@
-# Script to read data created by Audapter, and save pitch contours as TableOfReal files.
+# Praat (praat.org) script to read data created by Audapter, and save pitch contours as TableOfReal files.
 #
 # MKF, 2017
 
